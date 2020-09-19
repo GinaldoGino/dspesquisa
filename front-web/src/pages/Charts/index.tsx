@@ -23,7 +23,7 @@ const InitialPieData = {
     series: []
 }
 
-const BASE_URL = 'http://localhost:8080'
+const BASE_URL = "https://dspesquisa-ginaldo.herokuapp.com";
 
 const Charts = () => {
 
